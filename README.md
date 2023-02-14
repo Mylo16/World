@@ -28,13 +28,16 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-Install git on your computer
-code editor
+
+-Install git on your computer
+-code editor
 
 
 ### Setup
 
 Clone this repository to your desired folder:
+
+-git@github.com:Mylo16/Hello-World.git
 
 
 ## 👥 Authors <a name="authors"></a>
